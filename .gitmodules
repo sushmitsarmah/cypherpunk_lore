@@ -1,0 +1,6 @@
+[submodule "cypherpunk_solana_lore"]
+	path = cypherpunk_solana_lore
+	url = git@github.com:sushmitsarmah/cypherpunk_solana_lore.git
+[submodule "cypherpunk_lore_frontend"]
+	path = cypherpunk_lore_frontend
+	url = git@github.com:sushmitsarmah/cypherpunk_lore_frontend.git
